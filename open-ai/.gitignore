@@ -1,7 +1,3 @@
+args.ts
+script.txt
 speech.mp3
-/open-ai/text-to-speech/script.txt
-/open-ai/text-to-speech/*.txt
-/open-ai/text-to-speech/** */
-open-ai/text-to-speech/script.txt
-open-ai/text-to-speech/*.txt
-open-ai/text-to-speech/** */
