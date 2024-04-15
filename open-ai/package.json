@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "openai": "^4.32.1"
+  },
+  "scripts": {
+    "text-to-speech": "ts-node text-to-speech/main.ts"
   }
 }
