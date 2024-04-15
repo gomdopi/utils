@@ -1,2 +1,4 @@
-/text-to-speech/
+/text-to-speech/*.txt
 speech.mp3
+.txt
+*.txt
